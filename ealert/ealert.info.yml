@@ -1,0 +1,7 @@
+name: ealert
+type: module
+description: Creating e-alert file for sending email
+core: 8.x
+dependencies:
+  - token:token
+package: Custom
